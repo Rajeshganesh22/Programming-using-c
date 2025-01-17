@@ -1,2 +1,2 @@
-# Programming-using-c
-About 1st year 
+# Programming-using
+Our first year c assignment programme 
